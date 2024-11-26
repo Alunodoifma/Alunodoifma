@@ -10,7 +10,7 @@
 
 Olá, me chamo Italo Chamulay, tenho 16 anos, sou cristão e estudo no IFMA no curso técnico de informática.
 <div align="center">
-  <img width=30% src="https://github.com/Alunodoifma/Alunodoifma/blob/main/Design%20sem%20nome.mp4"/>
+  <img width=30% src="https://github.com/Alunodoifma/Alunodoifma/blob/main/Design%20sem%20nome%20(3).gif"/>
 </div>
 
 ### Informações Profissionais
